@@ -1,0 +1,56 @@
+Ağ, iletişim aygıtları ve iletim ortamı yoluyla, kablolu ya da kablosuz olarak bağlanan bilgisayar ve aygıtların bir araya gelerek oluşturduğu yapıdır.
+
+İnternet ; çoklu ağlar arasında iletişimdir.
+TCP/IP olarak adlandırılan bir transfer kontrol protokolünün kullanılması suretiyle bilgisayar ağlarının birbirine bağlanmasını sağlayan elektronik iletişim ağıdır.
+
+Dünyada, ülkeler arasında kurulmuş birbiriyle bağlantılı telefon ağı mevcuttur.
+Bu hatlar sayesinde tüm dünya birbiri ile iletişim halinde olup, bilgi özgür şekilde dolaşmaktadır.
+
+Amerikan Savunma Bakanlığı’nın ARPA birimi ARPANET isimli bir proje başlattı.
+Amacı;Pentagon’a bağlı birimlerdeki bilgisayarları telefon hattı üzerinden birbirine bağlamak.
+Soğuk Savaş sırasında bilgisayarlı haberleşme sisteminin bir merkeze bağlı olmadan, bir yer vurulursa haberleşme kesilmeden devam etmesi isteniyordu.
+
+Packet switching (paket dağıtma) tekniği geliştirdi.
+Gönderilecek bilgiyi küçük paketlere bölüp göndererek, bilgisayarın bir bilgisayarla iletişim esnasında iken başka yerden bağlanan diğer kişinin bilgisayarın işlemcisinin kullanılmasına devam etmesini sağladılar.
+İlk ileti gönderimi;UCLA öğrencisi bir programcı olan Charley Kline tarafından gönderilmiştir.
+ilk başarılı ileti "lo" oldu. "login" sözcüğünün tamamının gönderilmesi için bir saate yakın bir çalışma gerekti.
+
+İlk e-posta bir deneme epostasıydı ve içeriğinde “QWERTYUIOP” yazıyordu.
+Kimsenin isminde bulunmayan ve karışıklığa yol açmayacak bir işaret @ ile alıcı kişinin adını yazarak göndermişti.
+tomlinson@bbn-tenexa
+Henüz e-mail (e-posta) olarak adlandırılmamıştı.
+
+İngiltere Kraliçesi II. Elizabeth, ARPANET’i inceleyerek ilk e-maili gönderen devlet yöneticisi oldu.
+
+Dosya İletim Protokolü (FTP) geliştirildi.
+Bu sayede internet adresi, dosyaya ulaşacak kullanıcı adı ve şifresi ile ARPANET ağı içinde dosya gönderimine başlandı.
+En başlarda yalnızca yazılı metin içeren dosyalar iletilebildi.
+Ağ Ses Protokolu (NVP) tanımlandı fakat hiç başarılı sesli konferans gerçekleştilemedi.
+Videolu görüşme henüz mümkün değil.
+
+Ağ içinde ve diğer ağlarla güvenli bir şekilde iletim yapılabilmesi için  TCP/IP geliştirildi.
+IP, internete bağlanacak bilgisayara benzersiz olarak atanan numara.
+TCP katmanı :
+Verinin paketlere ayrılması ve karşı tarafa iletilmesi ve tekrar birleştirilmesi
+IP katmanı :
+Paketlerin istenen ağ adresine yönlendirilmesi 
+
+
+ARPANET 1990 yılında kaldırıldı.
+Pentagon’un ARPA birimi;bilgisayar grafikleri, paralel işlemci, bilgisayarlı uçak simülasyonlarının geliştirildiği yerdir.
+Yatırımların temel motivasyonu ise (soğuk) savaşta yenilmemek için savunma sanayiyi geliştirmek.
+
+Bilgisayar ağları;kurumlar arasında bilgi iletimi için kullanılıyordu.
+www’nun icadı bir dönüm noktası oldu.
+Sir Timothy John Berners-Lee www’nun mucididir.
+CERN'nde hiper metin üzerinde çalışırken 1990 yılında www’u geliştirdi, ilk web tarayıcısını yaptı. 
+Southampton Üniversitesi’nde anlamsal ağ (makinenin metinlerin anlamını anlaması) üzerinde çalıştı.
+
+Hiper (aşırı, fazla) metin, bilgisayar ekranı ya da diğer elektronik cihazlarda gösterilen ve sadece yazıdan ibaret olmayan gelişmiş özelliklere sahip belgelerdir.
+
+Diğer metin ve kaynaklara hiperlinklerle bağlanır ve fare ile tıkladığınızda ulaşılabilirler.
+Hipermetinlerde, resim, tablo, video, matematik formülü gibi farklı içerikler hiperlinklerle yerlşetirilebilir. 
+
+
+
+
